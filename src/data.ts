@@ -1,0 +1,2 @@
+export const User = [{userName:'pasvan@gmail.com',passWord:'04909cb78929834c8114ed8d7ca933f11699b4c43af19e6bb2808abd8033205753e8e58e71325a65a6c8e3f3a4ce80cbbb3f5d8c4e7de48ec8fa26bcac34fc80',attempt:1,locked:false}]
+export const Link = [{userName:'pasvan@gmail.com',link:'8fb2ada80d98caf3aeb61a0bb11e0aaa691d4dd0e75ab51ca24a07da78c52760ab9ea12251fe1e88df1b676ee0667354bd3b4fa59b7e7ead2a6a7d4fdc897897',validUpto:'2024-07-17 23:00'}]
